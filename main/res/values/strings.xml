@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CCET Sports</string>
+    <string name="title_activity_user">userActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="games1">
+        <item>Long Jump(Boys)</item>
+        <item>Long Jump(Girls)</item>
+        <item>Race(Boys)</item>
+        <item>Race(Girls)</item>
+        <item>Short Put(Boys)</item>
+        <item>Short Put(Girls)</item>
+        <item>Pole Vault(Boys)</item>
+        <item>Hammer Throw(Boys)</item>
+        <item>Hammer Throw(Girls)</item>
+        <item>Discuss Throw(Boys)</item>
+        <item>Discuss Throw(Girls)</item>
+        <item>Hurdle Race(110)(Boys)</item>
+        <item>Hurdle Race(110)(Girls)</item>
+        <item>Triple Jump(Boys)</item>
+        <item>Triple Jump(Girls)</item>
+        <item>Javelin Throw(Boys)</item>
+        <item>High Jump(Boys)</item>
+        <item>Relay Race(Boys)</item>
+        <item>Javelin Throw(Girls)</item>
+        <item>High Jump(Girls)</item>
+        <item>Relay Race(Girls)</item>
+    </string-array>
+</resources>
